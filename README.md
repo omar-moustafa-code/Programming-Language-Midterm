@@ -1,6 +1,6 @@
 # Programming-Language-Midterm
 
-The questions and my solutions to the midterm exam of the course 'Programming Language'
+The questions and my solutions to the midterm exam of the course 'Programming Language: Python Programming Language'
 
 Question #1 - Scored 10/10
 
